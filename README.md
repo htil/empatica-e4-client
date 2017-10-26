@@ -1,8 +1,6 @@
-# EmpaticaE4
+# empatica_e4-client
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-EmpaticaE4 is a node.js module, which can communicate with Empatica BLE Server to fetch the sensor stream data from the EmpaticaE4 device. 
+empatica_e4-client is a node.js module, which can communicate with Empatica BLE Server to fetch the sensor stream data from the Empatica E4 device. 
 
 Intruction to setup the Emaptica BLE Server is provided in link (http://developer.empatica.com/windows-ble-server.html)
 
