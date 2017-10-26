@@ -38,6 +38,5 @@ dev1.connect(portNumber ,ipAddress, deviceID, function(data){
 });
 setTimeout(function() {
 	dev1.subscribe(EmpaticaE4.E4_BVP);
-	dev1.subscribe(EmpaticaE4.E4_ACC);
 }, 1000);
 ```
