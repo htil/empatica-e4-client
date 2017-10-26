@@ -1,5 +1,5 @@
 {
-  "name": "empatica_e4-client",
+  "name": "empatica-e4-client",
   "version": "1.0.1",
   "description": "EmpaticaE4 is a node.js module, which can communicate with Empatica BLE Server to fetch the sensor stream data from the EmpaticaE4 device. ",
   "main": "EmpaticaE4.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htil/empatica_e4-client.git"
+    "url": "git+https://github.com/htil/empatica-e4-client.git"
   },
   "keywords": [
     "EmpaticaE4",
@@ -17,7 +17,7 @@
   "author": "Arpan Man Sainju",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/htil/empatica_e4-client/issues"
+    "url": "https://github.com/htil/empatica-e4-client/issues"
   },
-  "homepage": "https://github.com/htil/empatica_e4-client#readme"
+  "homepage": "https://github.com/htil/empatica-e4-client#readme"
 }
