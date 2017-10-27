@@ -11,17 +11,17 @@ net (https://www.npmjs.com/package/net)
 # Installation
 ```sh
 $ cd <project_path>
-$ npm install empatica_e4-client
+$ npm install empatica-e4-client
 ```
 # Subscribe Options
 ```code
-	EmpaticaE4.E4_ACC 	//3-axis accleration
-	EmpaticaE4.E4_BVP 	//Blood Volume Pulse
-	EmpaticaE4.E4_GSR 	//Galvanic Skin Response
-	EmpaticaE4.E4_TEMP 	//Skin Temperature
-	EmpaticaE4.E4_IBI 	//Interbeat Interval
-	EmpaticaE4.E4_BATT 	//Device Battery
-	EmpaticaE4.E4_TAG 	//Device Tag
+EmpaticaE4.E4_ACC   //3-axis accleration
+EmpaticaE4.E4_BVP   //Blood Volume Pulse
+EmpaticaE4.E4_GSR   //Galvanic Skin Response
+EmpaticaE4.E4_TEMP  //Skin Temperature
+EmpaticaE4.E4_IBI   //Interbeat Interval
+EmpaticaE4.E4_BATT  //Device Battery
+EmpaticaE4.E4_TAG   //Device Tag
 ```
 
 # Demo
