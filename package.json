@@ -1,6 +1,10 @@
 {
   "name": "empatica-e4-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "dependencies": {
+  	"net": "1.0.2",
+  	"binstring": "0.2.1"
+  },
   "description": "EmpaticaE4 is a node.js module, which can communicate with Empatica BLE Server to fetch the sensor stream data from the EmpaticaE4 device. ",
   "main": "EmpaticaE4.js",
   "scripts": {
